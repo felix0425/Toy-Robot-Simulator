@@ -1,0 +1,11 @@
+/Users/felixwong/Projects/Toy/Toy/bin/Debug/netcoreapp2.1/Toy.deps.json
+/Users/felixwong/Projects/Toy/Toy/bin/Debug/netcoreapp2.1/Toy.runtimeconfig.json
+/Users/felixwong/Projects/Toy/Toy/bin/Debug/netcoreapp2.1/Toy.runtimeconfig.dev.json
+/Users/felixwong/Projects/Toy/Toy/bin/Debug/netcoreapp2.1/Toy.dll
+/Users/felixwong/Projects/Toy/Toy/bin/Debug/netcoreapp2.1/Toy.pdb
+/Users/felixwong/Projects/Toy/Toy/obj/Debug/netcoreapp2.1/Toy.csprojAssemblyReference.cache
+/Users/felixwong/Projects/Toy/Toy/obj/Debug/netcoreapp2.1/Toy.csproj.CoreCompileInputs.cache
+/Users/felixwong/Projects/Toy/Toy/obj/Debug/netcoreapp2.1/Toy.AssemblyInfoInputs.cache
+/Users/felixwong/Projects/Toy/Toy/obj/Debug/netcoreapp2.1/Toy.AssemblyInfo.cs
+/Users/felixwong/Projects/Toy/Toy/obj/Debug/netcoreapp2.1/Toy.dll
+/Users/felixwong/Projects/Toy/Toy/obj/Debug/netcoreapp2.1/Toy.pdb

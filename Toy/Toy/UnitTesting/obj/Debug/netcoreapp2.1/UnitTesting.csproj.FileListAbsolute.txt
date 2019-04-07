@@ -1,0 +1,15 @@
+/Users/felixwong/Projects/Toy/UnitTesting/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/felixwong/Projects/Toy/UnitTesting/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/felixwong/Projects/Toy/UnitTesting/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/felixwong/Projects/Toy/UnitTesting/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
+/Users/felixwong/Projects/Toy/UnitTesting/bin/Debug/netcoreapp2.1/UnitTesting.deps.json
+/Users/felixwong/Projects/Toy/UnitTesting/bin/Debug/netcoreapp2.1/UnitTesting.runtimeconfig.json
+/Users/felixwong/Projects/Toy/UnitTesting/bin/Debug/netcoreapp2.1/UnitTesting.runtimeconfig.dev.json
+/Users/felixwong/Projects/Toy/UnitTesting/bin/Debug/netcoreapp2.1/UnitTesting.dll
+/Users/felixwong/Projects/Toy/UnitTesting/bin/Debug/netcoreapp2.1/UnitTesting.pdb
+/Users/felixwong/Projects/Toy/UnitTesting/obj/Debug/netcoreapp2.1/UnitTesting.csprojAssemblyReference.cache
+/Users/felixwong/Projects/Toy/UnitTesting/obj/Debug/netcoreapp2.1/UnitTesting.csproj.CoreCompileInputs.cache
+/Users/felixwong/Projects/Toy/UnitTesting/obj/Debug/netcoreapp2.1/UnitTesting.AssemblyInfoInputs.cache
+/Users/felixwong/Projects/Toy/UnitTesting/obj/Debug/netcoreapp2.1/UnitTesting.AssemblyInfo.cs
+/Users/felixwong/Projects/Toy/UnitTesting/obj/Debug/netcoreapp2.1/UnitTesting.dll
+/Users/felixwong/Projects/Toy/UnitTesting/obj/Debug/netcoreapp2.1/UnitTesting.pdb
